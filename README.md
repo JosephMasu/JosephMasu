@@ -11,6 +11,11 @@ Skills: HTML | CSS | React.js | Next.js | TailwindCSS | JavaScript |  TypeScript
 - 👯 I’m looking to collaborate on any Web2 and Web3 projects 
 - 💬 Ask me about HTML, CSS, TailwindCSS, JavaScript, TypeScript, React.js, and Next.js. 
 
+<a href="https://www.linkedin.com/in/masu-joseph-503855216/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="filter: invert(1);">
+</a>
+<a href="https://twitter.com/MasuJoe" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40" style="filter: invert(1);">
+</a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/masu-joseph-503855216/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MasuJoe)  
 
