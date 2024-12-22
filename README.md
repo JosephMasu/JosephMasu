@@ -4,10 +4,10 @@ I'm a front-end engineer with expertise in Web2 and Web3 development. I speciali
 
 Besides being a front-end engineer, I’m a dynamic and driven android App developer;
 On the mobile front, I build robust and intuitive Android applications that cater to user needs.
+Java | Android Studio | Firebase.
 
-🚀 Let's build the future of the web together!
+Skills: HTML | CSS | React.js | Next.js | TailwindCSS | JavaScript |  TypeScript | Java | Android Studio | Firebase.
 
-Skills: HTML | CSS | React.js | Next.js | TailwindCSS | JavaScript |  TypeScript
 
 - 🔭 I’m currently working on front-end development for Web2, and creating dApps that integrate blockchain technology for Web3 
 - 🌱 I’m currently learning RUST 
@@ -20,6 +20,9 @@ Skills: HTML | CSS | React.js | Next.js | TailwindCSS | JavaScript |  TypeScript
 <a href="https://twitter.com/MasuJoe" target="_blank" style="background-color: white; padding: 5px; border-radius: 50%; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40" style="filter: invert(1);">
 </a>
+
+💡Let's build the future or
+the tech industry together!
 
 
 
