@@ -8,7 +8,6 @@ Java | Android Studio | Firebase.
 
 Skills: HTML | CSS | React.js | Next.js | TailwindCSS | JavaScript |  TypeScript | Java | Android Studio | Firebase.
 
-
 - 🔭 I’m currently working on front-end development for Web2, and creating dApps that integrate blockchain technology for Web3 
 - 🌱 I’m currently learning RUST 
 - 👯 I’m looking to collaborate on any Web2 and Web3 projects 
