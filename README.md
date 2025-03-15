@@ -15,8 +15,7 @@ Skills: HTML | CSS | React.js | Next.js | TailwindCSS | JavaScript |  TypeScript
   
 - 💬 Ask me about HTML, CSS, TailwindCSS, JavaScript, TypeScript, React.js, and Next.js. 
 
-💡Let's build the future or
-the tech industry together!
+💡Let's build the future together!
 
 
 [![My Twitter](https://img.shields.io/badge/Follow%20Me%20on%20Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MasuJoe)
