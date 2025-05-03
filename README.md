@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is Masu Joseph,
+
 I'm a front-end engineer with expertise in Web2 and Web3 development. I specialize in building responsive and scalable web applications. Passionate about creating intuitive UIs and leveraging the latest web technologies, I’ve worked on both traditional web projects and decentralized applications(dApps).
 
 Besides being a front-end engineer, I’m a dynamic and driven android App developer;
