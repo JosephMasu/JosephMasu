@@ -6,7 +6,7 @@ Besides being a front-end engineer, I’m a dynamic and driven android App devel
 On the mobile front, I build robust and intuitive Android applications that cater to user needs.
 Java | Android Studio | Firebase.
 
-Skills: HTML | CSS | React.js | Next.js | TailwindCSS | JavaScript |  TypeScript | Java | Android Studio | Firebase.
+Skills: HTML | CSS | React.js | Next.js | React native | TailwindCSS | JavaScript |  TypeScript | Java | Android Studio | Firebase | Supabase.
 
 - 🔭 I’m currently working on front-end development for Web2, and creating dApps that integrate blockchain technology for Web3
   
