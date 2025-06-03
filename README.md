@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Masu Joseph,
 
-I'm a front-end engineer with expertise in Web2 and Web3 development. I specialize in building responsive and scalable web applications. Passionate about creating intuitive UIs and leveraging the latest web technologies, I’ve worked on both traditional web projects and decentralized applications(dApps).
+I'm a Fullstack Engineer with expertise in both Web2 and Web3 development. I specialize in building responsive, scalable web applications and decentralized apps(dApps) using modern frontend technologies and robust backend frameworks like
+NestJS and MongoDB. Passionate about crafting intuitive user interfaces and architecting secure, high-performance backend systems, I bring end-to-end development experience across traditional and blockchain-based projects.
 
-Besides being a front-end engineer, I’m a dynamic and driven android App developer;
-On the mobile front, I build robust and intuitive Android applications that cater to user needs.
-Java | Android Studio | Firebase.
+I’m a dynamic and driven mobile App developer;
+On the mobile front, I build robust and intuitive Android applications that cater to user needs. My experience covers:
 
-Skills: HTML | CSS | React.js | Next.js | React native | TailwindCSS | JavaScript |  TypeScript | Java | Android Studio | Firebase | Supabase.
+Skills: HTML | CSS | React.js | ReactNative | Next.js | TailwindCSS | JavaScript | TypeScript | Java | Firebase | Supabase | MongoDb.
 
 - 🔭 I’m currently working on front-end development for Web2, and creating dApps that integrate blockchain technology for Web3
   
