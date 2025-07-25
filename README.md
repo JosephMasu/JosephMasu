@@ -10,7 +10,7 @@ Skills: HTML | CSS | React.js | ReactNative | Next.js | TailwindCSS | JavaScript
 
 - 🔭 I’m currently working on front-end development for Web2, and creating dApps that integrate blockchain technology for Web3
   
-- 🌱 I’m currently learning RUST
+- 🌱 I’m currently learning SpringBoot
   
 - 👯 I’m looking to collaborate on any Web2 and Web3 projects
   
