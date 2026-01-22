@@ -3,7 +3,6 @@
 I'm a Fullstack Engineer with expertise in both Web2 and Web3 development. I specialize in building responsive, scalable web applications and decentralized apps(dApps) using modern frontend technologies and robust backend frameworks like
 NestJS and MongoDB. Passionate about crafting intuitive user interfaces and architecting secure, high-performance backend systems, I bring end-to-end development experience across traditional and blockchain-based projects.
 
-
 I’m a dynamic and driven mobile App developer;
 On the mobile front, I build robust and intuitive Android applications that cater to user needs. My experience covers:
 
