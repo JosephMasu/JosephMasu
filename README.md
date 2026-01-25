@@ -1,22 +1,44 @@
-### Hi there 👋, my name is Masu Joseph,
+<h1 align="center">Hi there 👋, I'm Masu Joseph</h1>
+<h3 align="center">
+Full-Stack Engineer · Web2 & Web3 · Mobile Apps
+</h3>
 
-I'm a Fullstack Engineer with expertise in both Web2 and Web3 development. I specialize in building responsive, scalable web applications and decentralized apps(dApps) using modern frontend technologies and robust backend frameworks like
-NestJS and MongoDB. Passionate about crafting intuitive user interfaces and architecting secure, high-performance backend systems, I bring end-to-end development experience across traditional and blockchain-based projects.
+<p align="center">
+I build scalable web applications, decentralized apps (dApps), and intuitive mobile experiences.<br/>
+Focused on clean architecture, performance, and user-centered design across frontend, backend, and blockchain systems.
+</p>
 
-I’m a dynamic and driven mobile App developer;
-On the mobile front, I build robust and intuitive Android applications that cater to user needs. My experience covers:
+---
 
-Skills: HTML | CSS | React.js | ReactNative | Next.js | TailwindCSS | JavaScript | TypeScript | Java | Firebase | Supabase | MongoDb.
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on front-end development for Web2, and creating dApps that integrate blockchain technology for Web3
-  
-- 🌱 I’m currently learning SpringBoot
-  
-- 👯 I’m looking to collaborate on any Web2 and Web3 projects
-  
-- 💬 Ask me about HTML, CSS, TailwindCSS, JavaScript, TypeScript, React.js, and Next.js. 
+- 💻 Full-Stack Engineer with strong **Web2 & Web3** experience  
+- 🧠 Passionate about **clean UI**, **secure backend systems**, and **scalable architectures**
+- 📱 Mobile App Developer (React Native)
+- 🔗 Experience building **blockchain-integrated applications**
 
-💡Let's build the future together!
+---
 
-[![My Twitter](https://img.shields.io/badge/Follow%20Me%20on%20Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MasuJoe
-[![Connect with Me on LinkedIn](https://img.shields.io/badge/Connect%20with%20Me%20on%20LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/masu-joseph-503855216/)
+## 🚀 What I'm Up To
+
+- 🔭 Building **Web2 front-end applications** and **Web3 dApps**
+- 🌱 Currently learning **Spring Boot**
+- 👯 Open to collaborating on **Web2 & Web3 projects**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, and Next.js**
+
+---
+
+## 🌍 Let’s Connect
+
+<p align="center">
+  <a href="https://twitter.com/MasuJoe">
+    <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/masu-joseph-503855216/">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ *Let’s build the future together.*
