@@ -18,5 +18,6 @@ Skills: HTML | CSS | React.js | ReactNative | Next.js | TailwindCSS | JavaScript
 
 💡Let's build the future together!
 
-[![My Twitter](https://img.shields.io/badge/Follow%20Me%20on%20Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MasuJoe)
+[![My Twitter](https://img.shields.io/badge/Follow%20Me%20on%20Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MasuJoe
+
 [![Connect with Me on LinkedIn](https://img.shields.io/badge/Connect%20with%20Me%20on%20LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/masu-joseph-503855216/)
