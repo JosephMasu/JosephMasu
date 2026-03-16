@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Masu Joseph</h1>
 <h3 align="center">
-Software Engineer · FineTech & large-scale AI 
+Software Engineer · FinTech & large-scale AI 
 </h3>
 
 <p align="center">
