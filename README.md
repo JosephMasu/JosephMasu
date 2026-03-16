@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Masu Joseph</h1>
 <h3 align="center">
-Full-Stack Engineer · Web2 & Web3 · Mobile Apps
+Software Engineer · FineTech & large-scale AI 
 </h3>
 
 <p align="center">
-I build scalable web applications, decentralized apps (dApps), and intuitive mobile experiences.<br/>
-Focused on clean architecture, performance, and user-centered design across frontend, backend, and blockchain systems.
+I build FinTech and large-scale AI solutions, scalable web applications, decentralized apps (dApps), 
+  and mobile experiences focused on performance, clean architecture, and great user experience.
 </p>
 
 ---
