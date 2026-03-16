@@ -24,7 +24,7 @@ Focused on clean architecture, performance, and user-centered design across fron
 - 🔭 Building **Web2 front-end applications** and **Web3 dApps**
 - 🌱 Currently learning **Spring Boot**
 - 👯 Open to collaborating on **Web2 & Web3 projects**
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, and Next.js**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, Spring Boot, Kafka, TypeScript, React, and Next.js**
 
 ---
 
