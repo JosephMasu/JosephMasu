@@ -12,7 +12,7 @@ I build FinTech and large-scale AI solutions, scalable web applications, decentr
 
 ## 🧑‍💻 About Me
 
-- 💻 Full-Stack Engineer with strong **Web2 & Web3** experience  
+- 💻 Software Engineer with strong **Web2 & Web3** experience  
 - 🧠 Passionate about **clean UI**, **secure backend systems**, and **scalable architectures**
 - 📱 Mobile App Developer (React Native)
 - 🔗 Experience building **blockchain-integrated applications**
@@ -21,7 +21,7 @@ I build FinTech and large-scale AI solutions, scalable web applications, decentr
 
 ## 🚀 What I'm Up To
 
-- 🔭 Building **Web2 front-end applications** and **Web3 dApps**
+- 🔭 Building **Microservis using java as backend spring boot**
 - 🌱 Currently learning **Spring Boot**
 - 👯 Open to collaborating on **Web2 & Web3 projects**
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, Spring Boot, Kafka, TypeScript, React, and Next.js**
