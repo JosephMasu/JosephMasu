@@ -33,12 +33,14 @@ solving technical problems, and continuously learning new technologies. Pragmati
 **Shwary, Inc**
 09/2025 - present | Remote
 
+## Full Stack Developer
 **VisionMate**  
-05/2025 -  present | San-Francisco
-## Frontend Engineer Team lead 
+05/2025 -  present | Remote
 
+## Frontend Engineer Team lead 
 **Necta**  
-04/2025 -  01/2026 | San-Francisco
+04/2025 -  01/2026 | Remote
+
 ## Frontend Engineer 
 **QuariLabs**  
 *06/2024 – 03/2025 | Remote*  
@@ -49,7 +51,7 @@ solving technical problems, and continuously learning new technologies. Pragmati
 
 ## Full Stack Developer  
 **Fasto Services**  
-*02/2020 – 04/2024 |  Remote* 
+*02/2020 – 04/2024 |  Kampala*
 
 
  **📧 How to reach me: <a href="galiencodes13@gmail.com">josephmuhindo089@gmail.com<a/>**
