@@ -4,6 +4,7 @@
 [![Joseph_Masu Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MasuJoe)
 [![Joseph_Masu Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@josephmuhindo089)
 
+
 I’m a Software Engineer with 6+ years of experience building web and mobile applications across fintech, 
 SaaS, and digital products. I work primarily with TypeScript, JavaScript, React, Next.js, React Native, 
 Node.js, NestJS, and Spring Boot, and have experience with APIs, microservices, databases, cloud infrastructure, 
